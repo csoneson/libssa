@@ -28,13 +28,16 @@ In addition to these files, I have included a set of screenshots that illustrate
     Screenshot 2: Outliers Removal
         How apply outliers removal from the data with.
 
-    Screenshot 3: Peak Isolation
+    Screenshot 3: Correlation spectrum
+        The obtained correlation spectrum for carbon in the sample set.
+    
+    Screenshot 4: Peak Isolation
         The process of isolating peaks within the spectra for further analysis.
 
-    Screenshot 4: Peak Fitting
+    Screenshot 5: Peak Fitting
         This screenshot provides instructions for fitting peaks to the data accurately.
 
-    Screenshot 5: Linear Models
+    Screenshot 6: Linear Models
         Finally, how to create and apply linear models to samples using the software.
 
 These screenshots are included to help reviewers navigate the software effectively. Please let me know if you need any additional information or have any questions.
